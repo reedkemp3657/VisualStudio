@@ -1,0 +1,12 @@
+C:\Users\kempr01\AppData\Local\Temporary Projects\TestGen\bin\Debug\TestGen.exe.config
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\bin\Debug\TestGen.exe.config
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\bin\Debug\TestGen.exe
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\bin\Debug\TestGen.pdb
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\bin\Debug\TestGen.xml
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\obj\Debug\TestGen.FrmMain.resources
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\obj\Debug\TestGen.FrmQuestion.resources
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\obj\Debug\TestGen.Resources.resources
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\obj\Debug\TestGen.vbproj.GenerateResource.Cache
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\obj\Debug\TestGen.exe
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\obj\Debug\TestGen.xml
+\\bscstudent\kempr01$\Visual Studio 2012\Projects\TestGen\TestGen\obj\Debug\TestGen.pdb
